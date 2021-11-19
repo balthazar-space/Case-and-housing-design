@@ -19,4 +19,4 @@ Dwg files you can watch also with Adobe programs, but because they are
 basically all just drawings they will be shown as 2d drawings then. 
 Only in Autocad you can see them as 3D objects. 
 So you see the dxf files but if you have no Autocad, you can not do anything with them.
-Bummer that is out of our reach right now.
+Bummer that is and out of our reach right now.
