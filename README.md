@@ -20,3 +20,7 @@ basically all just drawings they will be shown as 2d drawings then.
 Only in Autocad you can see them as 3D objects. 
 So you see the dxf files but if you have no Autocad, you can not do anything with them.
 Bummer that is and out of our reach right now.
+
+![v0.1](v0.1/images/z1.png)
+
+![v0.2](v0.2/images/1.jpg)
