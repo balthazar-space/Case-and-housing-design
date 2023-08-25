@@ -1,5 +1,6 @@
-This is the first version of a casing that we developed as a basis for futher development of the design.
-THere are dxf and dwg files that we started with, however some designers prefer Blender and in the second iteration we have moved away from proprietary files as they cannot be viewd properly.
+This is the first ever version of a casing that we developed as a basis for futher development of the design.
+There are dxf and dwg files in folders that we started with, however some designers prefer Blender and in the second iteration we 
+have moved away from proprietary files as they cannot be viewd properly as a 3D.
 
 
 ## Funding
