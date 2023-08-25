@@ -1,4 +1,4 @@
-# Bathazar case current version 3D preview
+# Bathazar case current 0.2 version 3D preview. 
 
 ### Blender
 
