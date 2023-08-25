@@ -27,7 +27,7 @@ Also it is compartmentalised to ease printing on a home 3D printer. $ casing par
 
 #### Case Building block
 
-![BuildBlock](images/Build_block.png)
+![Build_Block](images/Build_block.png)
 
 #### Case Building block with connectors
 
