@@ -1,5 +1,8 @@
 # Bathazar case current 0.2 version 3D preview. 
 
+This is 0.2 version of our new design, primarily meant as a technical set up with proper measuraments for internal modules.
+Also it is compartmentalised to ease printing on a home 3D printer. $ casing parts are stiched together with plastic pins for extra sturdiness.
+
 ### Blender
 
 ![1](images/1.jpg)
