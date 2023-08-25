@@ -49,7 +49,7 @@ Also it is compartmentalised to ease printing on a home 3D printer. $ casing par
 
 #### Assembly
 
-![BuildBlockAndC](images/Lap_1.png)
+![Lap_1](images/Lap_1.png)
 
 ![BuildBlockAndC](images/Lap_2.png)
 
