@@ -62,4 +62,4 @@
 
 ![BuildBlockAndC](images/Screen_holder.png)
 
-![BuildBlockAndC](/pictures/full_case.png)
+![BuildBlockAndC](/images/full_case.png)
