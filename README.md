@@ -1,10 +1,20 @@
 # Case and design 
-Balthazar's casing or a housing and  design.
+Balthazar's casing or a housing and its design.
 
-This is the place for CAD and 3D ready-to-print files and design proposals.
-We encourage you to adopt casing openings to a certain SoM (systems on a Module) and outputs.
+This is the place for pictures of casing design and 3D ready-to-print files and other design proposals.
+
+A new reorganisation of the files starting from the 1st ever version v0.1, going over to the current v0.2
+Each future version will have its iteration version, with pitures of made elements and assembled casings, 
+3D print-ready files, documentation, and adjoining files to ease and explain assembly process.   
+
+In the case of modifying the case, we encourage you to precisely indicate and include short descriptions of casing openings 
+to a certain SoM (systems on a Module) and outputs.
+
 Those files will be updated as we move on and as revisions change to a final look and also materials will vary.
-About the file formats - well..the truth is following.
+We will ensure that home and industrial versions are made, so that everyone can make case, wheather as a school project, 
+cheaper home D-I-Y or ready for mass production.
+
+About the file formats - the truth is following.
 The issues we are encountering and it is as it might be
 somewhat problematic with Open Source software. 
 CAD is complicated on Linux, as it is a big
