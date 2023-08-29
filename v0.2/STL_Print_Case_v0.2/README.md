@@ -7,15 +7,24 @@ Additionally one needs 22 pcs. M3 screws to fasten Balthazar modules inside, als
 Assembly procedure and its description is as follows:
 
 
-a) Print each .stl file once, 20 pieces of Universal Connector pegs, that are needed to connect the elements of the lower casing. 
+a) Print each .stl file once, 20 pieces of Universal Connector pegs, that are needed to connect the elements of the lower casing.
+
 b) Put 4 Case Bottom elements together by inserting the pegs (Universal Connector) into the corresponding holes and fasten those together, snapping those into one sturdy unit.
+
 c) Position PCB modules, keyboard and battery packs into the place and screw those in with 3M screws. 
+
 d) Place the 4 Case Top elements on the top of the assembled base and fasten those with 3M screws.
+
 f) Screw the Hinge Holder on with 3 M3 screws on the each side.
+
 e) Assemble 4 LCD Holders Bottom side 
+
 f) Insert the 13.3" screen
+
 g) Screw on 4 elemnets of LCD holder Top side.
+
 h) Snap LCD Logo into outer LCd Holder middle the place.
+
 i) Align hinges and push through Hinge Long rotate rod through until it is locked in place.
 
 That completes basic casing assembly.
