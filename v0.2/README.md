@@ -1,12 +1,15 @@
 # Bathazar case current 0.2 version 3D preview. 
 
 This is 0.2 version of our new design, primarily meant as a technical set-up with proper measuraments for fitting internal modules.
-Also it is compartmentalised to ease printing on a home 3D printer, reinforced with connecting pegs, adding extra sturdiness to the assembled case. 
+
+So current no-design or a suitcase-design will not be final, but this phase solves the tecnical issues and a construction system.
+
+Also it is compartmentalised to ease printing on a home 3D printer, reinforced with connecting pegs, thus adding extra stability and sturdiness to the assembled case. 
+
 Printing files are to be found in STL_Print_Case folder, together with assembly instructions. 
-Casing parts are stiched together with plastic pins for extra sturdiness. 
+Casing parts are stiched together with plastic pins. 
 Also you need a good stash of M3 screws to fasten the connecting and overlaying parts, and PCB modules and a keyboard. 
 Those are designed with marked dedicated holes.
-
 Also supplied is printable version of assembly procedure.
 
 Below are general overview of the parts, modules and hands-on examples during the assembly.
