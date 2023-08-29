@@ -3,8 +3,9 @@ Balthazar's casing or a housing and its design.
 
 This is the place for pictures of casing design and 3D ready-to-print files and other design proposals.
 
-A new reorganisation of the files starting from the 1st ever version v0.1, going over to the current v0.2
-Each future version will have its iteration version, with pitures of made elements and assembled casings, 
+A new reorganisation of the files starting from the 1st ever version v0.1, going over to the current v0.2.
+
+Each future version will have its iteration version, containing pictures of made elements and assembled casings, 
 3D print-ready files, documentation, and adjoining files to ease and explain assembly process.   
 
 In the case of modifying the case, we encourage you to precisely indicate and include short descriptions of casing openings 
@@ -24,11 +25,11 @@ However to be more professional in that both directions we try to be reluctantly
 balancing between the industry and our community. 
 
 You can watch .dxf files only with Autocad software and also on your mobile 
-device with few dedicated apps. 
-Dwg files you can watch also with Adobe programs, but because they are
+device with a few dedicated apps. 
+DWG files you can watch also with Adobe programs, but because they are
 basically all just drawings they will be shown as 2d drawings then. 
 Only in Autocad you can see them as 3D objects. 
-So you see the dxf files but if you have no Autocad, you can not do anything with them.
+So you see the dxf files, but if you have no Autocad, you can not do anything with them.
 Bummer that is and out of our reach right now.
 
 ![v0.1](v0.1/images/z1.png)
