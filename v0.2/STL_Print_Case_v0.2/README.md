@@ -22,11 +22,11 @@ a) Print each .stl file once, except 2x BATTERY Cover, 100 pieces of Universal C
 
 b) Put 4 Case Bottom elements together by inserting the pegs (Universal Connector) into the corresponding holes and fasten those together, snapping those into one sturdy unit.
 
-c) Position PCB modules, keyboard and battery packs into the place and screw those in with 3M screws. 
+c) Position PCB modules, keyboard and battery packs into the place and screw those in with M2 screws. 
 
-d) Place the 4 Case Top elements on the top of the assembled base and fasten those with 3M screws.
+d) Place the 4 Case Top elements on the top of the assembled base and fasten those with M2 screws.
 
-f) Screw the Hinge Holder on with 3 M3 screws on the each side.
+f) Screw the Hinge Holder on with 3 M2 screws on the each side.
 
 e) Assemble 4 LCD Holders Bottom side 
 
