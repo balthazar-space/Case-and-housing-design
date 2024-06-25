@@ -1,4 +1,11 @@
-# Case and design 
+# Balthazar
+
+Open-hardware laptop computer modules description and concept.
+
+These are electronic schematic modules as presented at https://balthazar.space/wiki/Balthazar with the main aim for team access. See the [main repository](https://github.com/balthazar-space/balthazar) for other designs.
+
+# Balthazar case and design 
+
 Balthazar's casing or a housing and its design.
 
 This is the place for pictures of casing design and 3D ready-to-print files and other design proposals.
@@ -37,6 +44,16 @@ Bummer that is and out of our reach, right now.
 ![v0.1](v0.1/images/z1.png)
 
 ![v0.2](v0.2/images/1.jpg)
+
+## License
+
+All resources licensed under the CERN Open Hardware Licence CERN-OHL W V.2.0
+
+Version 2.0 of the CERN-OHL introduces three variants of the licence – strongly (S) reciprocal, weakly (W) reciprocal and permissive (P) – which aim to address specific constraints caused by different collaboration models currently used in open-hardware projects. 
+
+The first two variants mean that if any product is made using an open hardware design, the design of that product, including any improvements or modifications, should be made available under the same licence as that of the original product. Permissive licences do not impose this condition.
+
+See the [LICENSE.md](./LICENSE.md) file for more information.
 
 ## Funding
 
