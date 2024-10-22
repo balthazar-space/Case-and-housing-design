@@ -2,7 +2,7 @@
 
 Open-hardware laptop computer modules description and concept.
 
-These are electronic schematic modules as presented at https://balthazar.space/wiki/Balthazar with the main aim for team access. See the [main repository](https://github.com/balthazar-space/balthazar) for other designs.
+These are designs of  modules as presented at https://balthazar.space/wiki/Balthazar with the main aim for team access. See the [main repository](https://github.com/balthazar-space/balthazar) for other designs.
 
 # Balthazar case and design 
 
