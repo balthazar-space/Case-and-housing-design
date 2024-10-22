@@ -40,6 +40,9 @@ Only in Autocad you can see them as 3D objects.
 So you see the dxf files, but if you have no Autocad, you can not do anything with them.
 Bummer that is and out of our reach, right now.
 
+Also there are hi res .step files as well as .stl.
+Those should be pretty much compatible with many Open Source software and industrial standards.
+
 
 ![v0.1](v0.1/images/z1.png)
 
