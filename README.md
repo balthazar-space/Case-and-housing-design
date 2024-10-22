@@ -46,9 +46,9 @@ Those should be pretty much compatible with many Open Source software and indust
 
 ![v0.1](v0.1/images/z1.png)
 
-![v0.2](v0.2/images/1.jpg
+![v0.2](v0.2/images/1.jpg)
 
-)![v0.3](v0.3/47B.png)
+![v0.3](v0.3/47B.png)
 
 ## License
 
